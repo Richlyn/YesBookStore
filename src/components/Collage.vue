@@ -17,6 +17,9 @@ export default {
 
 <style scoped>
 #collage {
+  position: relative;
+  max-width: 800px; /* Maximum width */
   margin: auto;
+  padding: 5rem;
 }
 </style>

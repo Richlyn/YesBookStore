@@ -3,7 +3,7 @@
     <Bookshelf/>
   </div>
 </template>
-
+ 
 <script>
 // @ is an alias to /src
 import Bookshelf from "@/components/Bookshelf.vue";
